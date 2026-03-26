@@ -1,5 +1,3 @@
-package project5;
-
 /**
  * A class representing the hero traversing through the Maze
  * 

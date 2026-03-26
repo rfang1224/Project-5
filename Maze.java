@@ -1,5 +1,3 @@
-package project5;
-
 /**
  * A class that represents a maze, a BST of MazeNodes
  * 
